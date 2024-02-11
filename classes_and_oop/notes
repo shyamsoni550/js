@@ -6,6 +6,7 @@
 ## parts of oop
 ## object literals:
 - constructor functions
+## new kryword create an empry onjet that called instance
 - prototype
 - classes
 - instances(new,this)
